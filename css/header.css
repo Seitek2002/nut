@@ -1,0 +1,22 @@
+.menu {
+  display: flex;
+  list-style: none;
+  align-items: center;
+}
+.content {
+  display: flex;
+  justify-content: space-between;
+}
+.menu li {
+  margin-left: 34px;
+  color: #b8becd;
+  font-size: 16px;
+  font-family: Inter;
+  transition: 2s;
+}
+
+.menu li:hover {
+  transition: 0.3s;
+  color: #202336;
+}
+
