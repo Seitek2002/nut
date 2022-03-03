@@ -1,0 +1,28 @@
+.stories__box{
+    width: 266px;
+}
+
+.stories__img{
+    background: url(../img/stories1.png);
+    height: 266px;
+    width: 100%;
+    border-radius: 8px;
+}
+
+.stories__img--second{
+    background: url(../img/stories2.png) center;
+}
+
+.stories__name {
+  font-family: Inter;
+  font-weight: bold;
+  font-size: 19px;
+  color: #000000;
+}
+
+.stories__descr {
+  font-family: Inter;
+  font-weight: normal;
+  font-size: 15px;
+  color: #7d7987;
+}
